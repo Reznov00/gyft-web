@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'gyft'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C5A6C33AB8B14A9FA7C3EA8548B35086 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F0FDA7B8DBF048999D196DF726F41662 }}
           package: .
